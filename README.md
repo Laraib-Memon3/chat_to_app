@@ -10,7 +10,6 @@ When prompted with:
 
 Code
 
-
 Copy
 I have an app that has login and registration. Make a flow diagram of it.
 The AI model returns a JSON flow diagram, which the app renders directly in Chrome.
