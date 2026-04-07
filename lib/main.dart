@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
     final dio = Dio();
     // TODO: Replace with your actual OpenRouter API key or use environment variables
     const apiKey =
-        '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';
+        ;
 
     final openRouterService = OpenRouterServiceClient(dio: dio, apiKey: apiKey);
     final workflowRepository = WorkflowRepositoryImpl(
