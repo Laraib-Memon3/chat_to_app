@@ -118,7 +118,7 @@ When adding nodes, generate a new unique string for the 'id'.
           },
         ),
         data: {
-          'model': 'nvidia/nemotron-3-super-120b-a12b:free',
+          'model': 'nvidia/nemotron-3-nano-30b-a3b:free',
           'messages': [
             {'role': 'system', 'content': systemPrompt},
             {'role': 'user', 'content': prompt},
